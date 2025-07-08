@@ -40,7 +40,7 @@ PRODIGY_WD_03/
 
 **Titli Purkait**  
 Full Stack Web Development Intern at Prodigy Infotech  
-🌐 [Portfolio](https://titli-purkait.github.io/)  
+Mail:titlipurkait268@gmail.com  
 📫 [LinkedIn](https://www.linkedin.com/in/titli-purkait)
 
 ---
